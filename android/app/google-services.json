@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708783659998",
+    "firebase_url": "https://teamlink-67801-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "teamlink-67801",
+    "storage_bucket": "teamlink-67801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708783659998:android:eea5c96c9a783c2066db4f",
+        "android_client_info": {
+          "package_name": "com.teamlink.adg_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708783659998-r7jvno9m6mbjr8d54jrlf45ud5a8483e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6rgPCGRf0Oauoh9g8FtoRI6rw8WhGlIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708783659998-r7jvno9m6mbjr8d54jrlf45ud5a8483e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708783659998-v2b4mp007phjflign18if9n8k7fo4b9o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teamlink.adgHackathon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
